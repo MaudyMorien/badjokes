@@ -31,6 +31,14 @@ const jokes = [ {
     {
         question: 'What did the left butt cheek say to the right butt cheek?',
         answer: 'You crack me up!',
+    },
+    {
+        question: 'What is green and sits crying in the corner?',
+        answer: 'The incredible Sulk!',
+    },
+    {
+        question: 'Andy has 150 candy bars. He eats 125. What does Andy have now?',
+        answer: 'Andy has diabetes now.',
     }
 ]
 //call the btn
